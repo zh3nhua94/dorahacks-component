@@ -105,6 +105,7 @@ const HomeSlider = () => {
 										alt=""
 										fill
 										className="object-cover rounded-lg"
+										priority
 									/>
 								</Link>
 							</div>
